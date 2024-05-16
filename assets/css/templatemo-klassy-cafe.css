@@ -712,7 +712,7 @@ banner
   min-width: 100%;
   position: relative;
   display: inline-block;
-  max-width: none;
+  max-width: 100%;
 }
 
 *,
